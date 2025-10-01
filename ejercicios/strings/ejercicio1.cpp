@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    string a, b;
+    int a, b;
     cout << "Ingrese la primera cadena: ";
     cin >> a;
     cout << "Ingrese la segunda cadena: ";
